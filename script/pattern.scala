@@ -1,7 +1,3 @@
-#!/bin/bash
-scala $0 $@
-exit
-!#
 
 /*
  Pattern-matching frequently replaces conditionals in Scala.
